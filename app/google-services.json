@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476286323402",
+    "project_id": "crack-the-ci",
+    "storage_bucket": "crack-the-ci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476286323402:android:e682bed5be772bd2f3c233",
+        "android_client_info": {
+          "package_name": "com.inamul.cracktheci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476286323402-h4umb3v4lc213fe2j45ecim2spvkrj88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHeSyhk9C_fEhifl2Ry0VYR8l_EZbmpes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476286323402-h4umb3v4lc213fe2j45ecim2spvkrj88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
